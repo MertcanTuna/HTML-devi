@@ -1,2 +1,2 @@
-# HTML-devi
+# HTML-ödevi
 HTML için yaptığım ilk ödev
